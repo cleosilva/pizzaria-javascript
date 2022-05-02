@@ -35,6 +35,7 @@ header {
     margin-right:10px;
 }
 .menu-closer {
+    color: #e73f3b;
     width:32px;
     height:32px;
     display:none;
